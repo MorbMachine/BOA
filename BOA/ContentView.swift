@@ -15,7 +15,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-                Text("Hello, world!").foregroundColor(.white)
+                Text("Committed!").foregroundColor(.white)
                 Spacer().ignoresSafeArea()
                 HStack{Image(systemName:"person.crop.circle.badge").foregroundColor(.white).ignoresSafeArea()
                      Spacer()
